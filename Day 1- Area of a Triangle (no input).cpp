@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-using namespace std
+using namespace std;
 
 int main()
 {
@@ -11,7 +11,7 @@ int main()
   
   height=4,base=5;
   
-  area=(base*height)/2;
+  area=(double)((base*height)/2);
   
   cout<<"Area of a triangle is "<<area;
   

@@ -22,7 +22,7 @@ int main()
     int a;
     cout<<"Enter the number\n";
     cin>>a;
-    Prime(n);
+    Prime(a);
 
     return 0;
 }

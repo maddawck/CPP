@@ -23,7 +23,7 @@ void DayName(int day)
 
 int main()
 {
-    float a;
+    int a;
     cout<<"Enter the day number
     cin>>a;
     DayName(a);

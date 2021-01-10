@@ -33,7 +33,7 @@ void MonthName(int m)
 
 int main()
 {
-    float a;
+    int a;
     cout<<"Enter the month number\n";
     cin>>a;
     MonthName(a);

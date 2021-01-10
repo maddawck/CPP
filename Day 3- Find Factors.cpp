@@ -17,7 +17,7 @@ int main()
     int a;
     cout<<"Enter the number\n";
     cin>>a;
-    Factors(n);
+    Factors(a);
 
     return 0;
 }

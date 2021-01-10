@@ -17,7 +17,7 @@ int main()
     int a;
     cout<<"Enter the number\n";
     cin>>a;
-    Digits(n);
+    Digits(a);
 
     return 0;
 }

@@ -23,7 +23,7 @@ int main()
     int a;
     cout<<"Enter the number\n";
     cin>>a;
-    Perfect(n);
+    Perfect(a);
 
     return 0;
 }

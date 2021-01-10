@@ -20,7 +20,7 @@ int main()
     int a;
     cout<<"Enter the number\n";
     cin>>a;
-    Factorial(n);
+    Factorial(a);
 
     return 0;
 }

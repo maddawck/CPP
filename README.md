@@ -9,4 +9,4 @@ Day 3- Conditional statements and loops.
 
 Day 4- Arrays and Pattern problems.
 
-Day 5- Pointers
+Day 5- Pointers.

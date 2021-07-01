@@ -8,5 +8,3 @@ Day 2- Conditional statements.
 Day 3- Conditional statements and loops.
 
 Day 4- Arrays and Pattern problems.
-
-Day 5- Pointers.
